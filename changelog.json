@@ -1,0 +1,12 @@
+[
+  {
+    "version": "0.7.3",
+    "date": "2026-04-12",
+    "summary": "This release focuses in visual improvements and bug fixes."
+  },
+  {
+    "version": "0.7.2",
+    "date": "2026-04-07",
+    "summary": "A small under-the-hood release with stability improvements and animation fixes."
+  }
+]
