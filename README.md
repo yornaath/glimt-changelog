@@ -1,6 +1,6 @@
 # Glimt App Changelog
 
-All releases of the [glimt app](https://www.glimtapp.io) will be documented here with the changes and bugfixes made.
+All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented here with the changes and bugfixes made.
 
 
 ## Changelog
