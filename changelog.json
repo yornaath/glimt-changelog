@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.0.0",
+    "date": "2026-04-16",
+    "summary": "First major release. Guided onboarding, improved glassy look, and visual improvements across the app."
+  },
+  {
     "version": "0.7.3",
     "date": "2026-04-12",
     "summary": "This release focuses in visual improvements and bug fixes."

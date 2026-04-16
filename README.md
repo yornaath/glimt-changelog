@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.0.0 [view full changelog](./changelogs/1.0.0.md)
+
+First major release. Guided onboarding, improved glassy look, and visual improvements across the app.
+
 ### 0.7.3 [view full changelog](./changelog/0.7.3.md)
 
 This release focuses in visual improvements and bug fixes.
