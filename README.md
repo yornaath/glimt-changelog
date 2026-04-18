@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.0.1 [view full changelog](./changelogs/1.0.1.md)
+
+A small but important fix — breathing reminders now reliably resume after you skip a pre-notification.
+
 ### 1.0.0 [view full changelog](./changelogs/1.0.0.md)
 
 First major release. Guided onboarding, improved glassy look, and visual improvements across the app.

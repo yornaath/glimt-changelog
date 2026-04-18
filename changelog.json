@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.0.1",
+    "date": "2026-04-18",
+    "summary": "A small but important fix — breathing reminders now reliably resume after you skip a pre-notification."
+  },
+  {
     "version": "1.0.0",
     "date": "2026-04-16",
     "summary": "First major release. Guided onboarding, improved glassy look, and visual improvements across the app."
