@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.1.1",
+    "date": "2026-06-05",
+    "summary": "A small polish release that makes playlists easier to follow at a glance, plus a fix for first-time setup."
+  },
+  {
     "version": "1.1.0",
     "date": "2026-06-05",
     "summary": "Your breath, your way — custom breathing presets and playlists let you craft your own patterns and string them into guided sequences."
