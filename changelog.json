@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.1.0",
+    "date": "2026-06-05",
+    "summary": "Your breath, your way — custom breathing presets and playlists let you craft your own patterns and string them into guided sequences."
+  },
+  {
     "version": "1.0.1",
     "date": "2026-04-18",
     "summary": "A small but important fix — breathing reminders now reliably resume after you skip a pre-notification."

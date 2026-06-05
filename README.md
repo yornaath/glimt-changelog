@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.1.0 [view full changelog](./changelog/1.1.0.md)
+
+Your breath, your way — custom breathing presets and playlists let you craft your own patterns and string them into guided sequences.
+
 ### 1.0.1 [view full changelog](./changelogs/1.0.1.md)
 
 A small but important fix — breathing reminders now reliably resume after you skip a pre-notification.
