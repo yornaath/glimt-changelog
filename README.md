@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.1.2 [view full changelog](./changelog/1.1.2.md)
+
+A gentle warm-up for your playlists — they now start with a short get-ready countdown.
+
 ### 1.1.1 [view full changelog](./changelog/1.1.1.md)
 
 A small polish release that makes playlists easier to follow at a glance, plus a fix for first-time setup.
