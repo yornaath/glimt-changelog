@@ -5,7 +5,7 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
-### 1.1.2[windows-support] [view full changelog](./changelog/1.1.2[windows-support].md)
+### 1.1.2@windows_support [view full changelog](./changelog/1.1.2@windows_support.md)
 
 Glimt is now on Windows 🎉
 
