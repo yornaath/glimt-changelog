@@ -7,7 +7,7 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ### 1.1.2 [view full changelog](./changelog/1.1.2.md)
 
-A gentle warm-up for your playlists — they now start with a short get-ready countdown.
+Glimt is now on Windows 🎉 — plus a gentle warm-up for your playlists.
 
 ### 1.1.1 [view full changelog](./changelog/1.1.1.md)
 
