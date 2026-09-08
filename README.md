@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.1.2[windows-support] [view full changelog](./changelog/1.1.2[windows-support].md)
+
+Glimt is now on Windows 🎉
+
 ### 1.1.2 [view full changelog](./changelog/1.1.2.md)
 
 A gentle warm-up for your playlists — they now start with a short get-ready countdown.
