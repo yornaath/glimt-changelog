@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.2.0",
+    "date": "2026-09-18",
+    "summary": "Meet the new 3D orb — a softer, more alive breathing visual, now the default — plus a handful of Windows fixes."
+  },
+  {
     "version": "1.1.3",
     "date": "2026-09-14",
     "summary": "A small fix — breath reminders now start right after onboarding, no restart needed."

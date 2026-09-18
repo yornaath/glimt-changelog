@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.2.0 [view full changelog](./changelog/1.2.0.md)
+
+Meet the new 3D orb — a softer, more alive breathing visual, now the default — plus a handful of Windows fixes.
+
 ### 1.1.3 [view full changelog](./changelog/1.1.3.md)
 
 A small fix — breath reminders now start right after onboarding, no restart needed.
