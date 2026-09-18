@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.2.1",
+    "date": "2026-09-18",
+    "summary": "A quick follow-up to 1.2.0 — the 3D orb is now truly the default, as promised."
+  },
+  {
     "version": "1.2.0",
     "date": "2026-09-18",
     "summary": "Meet the new 3D orb — a softer, more alive breathing visual, now the default — plus a handful of Windows fixes."

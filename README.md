@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.2.1 [view full changelog](./changelog/1.2.1.md)
+
+A quick follow-up to 1.2.0 — the 3D orb is now truly the default, as promised.
+
 ### 1.2.0 [view full changelog](./changelog/1.2.0.md)
 
 Meet the new 3D orb — a softer, more alive breathing visual, now the default — plus a handful of Windows fixes.
