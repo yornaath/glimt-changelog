@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.3.0 [view full changelog](./changelog/1.3.0.md)
+
+See your practice take shape: breath statistics, daily streaks on your own terms, and a reorganised Settings window.
+
 ### 1.2.1 [view full changelog](./changelog/1.2.1.md)
 
 A quick follow-up to 1.2.0 — the 3D orb is now truly the default, as promised.
