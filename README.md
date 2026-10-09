@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.3.2 [view full changelog](./changelog/1.3.2.md)
+
+Micro reminders get more personal: pick the breathing pattern they use, and put them wherever suits you on screen.
+
 ### 1.3.0 [view full changelog](./changelog/1.3.0.md)
 
 See your practice take shape: breath statistics, daily streaks on your own terms, and a reorganised Settings window.
