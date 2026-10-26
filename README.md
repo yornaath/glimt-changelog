@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.5.0 [view full changelog](./changelog/1.5.0.md)
+
+Glimt now works with AI agents: they can start breathing sessions and design breathing visuals made just for you. This release also adds two new breathing presets.
+
 ### 1.4.0 [view full changelog](./changelog/1.4.0.md)
 
 A calmer, clearer Settings window, streaks set up from day one, and a little something hidden for the curious.
