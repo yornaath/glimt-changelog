@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.5.1 [view full changelog](./changelog/1.5.1.md)
+
+Polish on top of 1.5.0: custom visuals can show the breath counter, and notifications look better.
+
 ### 1.5.0 [view full changelog](./changelog/1.5.0.md)
 
 Glimt now works with AI agents: they can start breathing sessions and design breathing visuals made just for you. This release also adds two new breathing presets.
