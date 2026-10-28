@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.5.2",
+    "date": "2026-10-28",
+    "summary": "Try Glimt free for 14 days, and connect it to Claude Desktop."
+  },
+  {
     "version": "1.5.1",
     "date": "2026-10-27",
     "summary": "Polish on top of 1.5.0: custom visuals can show the breath counter, and notifications look better."

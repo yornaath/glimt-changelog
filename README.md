@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.5.2 [view full changelog](./changelog/1.5.2.md)
+
+Try Glimt free for 14 days, and connect it to Claude Desktop.
+
 ### 1.5.1 [view full changelog](./changelog/1.5.1.md)
 
 Polish on top of 1.5.0: custom visuals can show the breath counter, and notifications look better.
