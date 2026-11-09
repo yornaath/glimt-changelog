@@ -5,6 +5,10 @@ All releases of the [glimtapp.io](https://www.glimtapp.io) will be documented he
 
 ## Changelog
 
+### 1.6.0 [view full changelog](./changelog/1.6.0.md)
+
+Pause a session whenever you need to, pick sessions from picture cards, choose light or dark, and let Glimt step aside while you game.
+
 ### 1.5.2 [view full changelog](./changelog/1.5.2.md)
 
 Try Glimt free for 14 days, and connect it to Claude Desktop.

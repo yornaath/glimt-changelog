@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.6.0",
+    "date": "2026-11-09",
+    "summary": "Pause a session whenever you need to, pick sessions from picture cards, choose light or dark, and let Glimt step aside while you game."
+  },
+  {
     "version": "1.5.2",
     "date": "2026-10-28",
     "summary": "Try Glimt free for 14 days, and connect it to Claude Desktop."
